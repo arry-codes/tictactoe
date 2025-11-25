@@ -26,38 +26,3 @@ src/
 ├── index.css          # Global styles and theme definitions
 └── main.jsx           # Entry point
 ```
-
-## 🔧 Setup & Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/arry-codes/tictactoe.git
-    cd tictactoe
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Configure Firebase**
-    - Create a project at [Firebase Console](https://console.firebase.google.com/).
-    - Create a **Realtime Database** (Start in Test Mode).
-    - Copy your config keys into `src/firebase.js`.
-
-4.  **Run Locally**
-    ```bash
-    npm run dev
-    ```
-
-## 🚢 Deployment (Vercel)
-
-1.  **Install Vercel CLI** (optional, or use web dashboard)
-    ```bash
-    npm i -g vercel
-    ```
-
-2.  **Deploy**
-    ```bash
-    vercel --prod
-    ```
