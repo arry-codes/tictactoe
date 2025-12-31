@@ -15,7 +15,7 @@ A modern, real-time multiplayer Tic Tac Toe game built with **React**, **Vite**,
 - **Backend / Database**: Firebase Realtime Database (Serverless)
 - **Deployment**: Vercel
 
-## 💻 UI/UX
+---
 <img width="1470" height="921" alt="image" src="https://github.com/user-attachments/assets/ee14982b-9b07-4506-9aba-e548298e52bf" />
 
 
